@@ -10,7 +10,7 @@ body {
 }
 
 .content {
-  border: 3px solid hotpink;
+  border: 1px solid hotpink;
   height: 70vh;
   width: 70vw;
 }
