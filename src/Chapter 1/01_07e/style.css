@@ -21,9 +21,10 @@ img {
 .content img {
   height: 100%;
   object-fit: cover;
+  /* width: 25% */
 }
 
 figure {
   margin: 0;
-  flex-basis: 25%;
+  width: 25%;
 }
