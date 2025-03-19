@@ -31,11 +31,11 @@ img {
 }
 
 .image:first-child {
-  clip-path: circle(100% at 100% 100%);
+  clip-path: circle(100% at right bottom);
 }
 
 .image:nth-of-type(2) {
-  clip-path: circle(100% at 0% 100%);
+  clip-path: circle(100% at left bottom);
 
   img {
     scale: 1.3;
@@ -44,7 +44,7 @@ img {
 }
 
 .image:nth-of-type(3) {
-  clip-path: circle(100% at 100% 0%);
+  clip-path: circle(100% at right top);
 
   img {
     scale: 2;
@@ -53,7 +53,7 @@ img {
 }
 
 .image:nth-of-type(4) {
-  clip-path: circle(100% at 0% 0%);
+  clip-path: circle(100% at left top);
 
   img {
     scale: 3;
