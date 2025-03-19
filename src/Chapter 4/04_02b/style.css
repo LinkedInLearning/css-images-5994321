@@ -61,7 +61,7 @@ img {
 }
 
 .image:hover {
-  clip-path: circle(100% at 50% 50%);
+  /* clip-path: circle(100% at 50% 50%); */
 }
 
 img {
