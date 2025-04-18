@@ -20,6 +20,9 @@
   "workbench.colorTheme": "Visual Studio Dark",
   "workbench.fontAliasing": "antialiased",
   "workbench.statusBar.visible": true,
+  "workbench.editorAssociations": {
+    "*.svg": "default"
+   },
   "liveServer.settings.root": "/docs",
   "prettier.enable": true,
   "eslint.alwaysShowStatus": false,
